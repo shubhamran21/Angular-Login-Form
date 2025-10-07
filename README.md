@@ -8,7 +8,7 @@ This project includes form validation, API integration structure, and a clean UI
 - **Reactive Forms** for validation
 - **Error messages** for invalid inputs
 - Ready-to-connect with real backend API
-- Loader & toast notifications (if included)
+- Loader & toast notifications
 
 ## 🛠️ Technologies Used
 - **Angular 19**
